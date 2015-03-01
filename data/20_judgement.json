@@ -1,0 +1,16 @@
+{
+	"name" : "Judgement",
+	"number": 20,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Shin",
+		"number": "300",
+		"meaning": "tooth"
+	},
+	"note": "C",
+	"astrology": "Pluto",
+	"alchemy": "Fire",
+	"colour": "red",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/20.jpg",
+	"interpretation": "Final decision in respect of the past, new current in respect of the future; always represents the taking of a definite step."		
+}	

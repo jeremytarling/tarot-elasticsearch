@@ -1,0 +1,16 @@
+{
+	"name" : "The Magician",
+	"number": 1,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Beth",
+		"number": "2",
+		"meaning": "house"
+	},
+	"note": "E",
+	"astrology": "Mercury",
+	"alchemy": "Mercury",
+	"colour": "yellow",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/1.jpg",
+	"interpretation": "Skill, wisdom, adroitness, elasticity, craft, cunning, deceit, theft. Sometimes occult wisdom or power, sometimes a quick impulse, a brain-wave”. It may imply messages, business transactions, the interference of learning or intelligence, with the matter in hand."		
+}	

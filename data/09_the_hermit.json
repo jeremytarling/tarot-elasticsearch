@@ -1,0 +1,16 @@
+{
+	"name" : "The Hermit",
+	"number": 9,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Yod",
+		"number": "10",
+		"meaning": "hand (open)"
+	},
+	"note": "F",
+	"astrology": "Virgo",
+	"alchemy": "earthy",
+	"colour": "yellow-green",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/9.jpg",
+	"interpretation": "Illumination from within, secret impulse from within; practical plans derived accordingly. Retirement from participation in current events."		
+}	

@@ -1,0 +1,16 @@
+{
+	"name" : "The Empress",
+	"number": 3,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Daleth",
+		"number": "4",
+		"meaning": "door"
+	},
+	"note": "F#",
+	"astrology": "Venus",
+	"alchemy": "Copper",
+	"colour": "green",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/3.jpg",
+	"interpretation": "Love, beauty, happiness, pleasure, success, completion, good fortune, graciousness, elegance, luxury, idleness, dissipation, debauchery, friendship, gentleness, delight."		
+}	

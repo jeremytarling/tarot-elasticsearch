@@ -1,0 +1,16 @@
+{
+	"name" : "The Hierophant",
+	"number": 5,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Vav",
+		"number": "6",
+		"meaning": "nail"
+	},
+	"note": "C#",
+	"astrology": "Taurus",
+	"alchemy": "earthy",
+	"colour": "red-orange",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/5.jpg",
+	"interpretation": "Stubborn strength, toil, endurance, placidity, manifestation, explanation, teaching, goodness of heart, help from superiors, patience, organization, peace."		
+}	

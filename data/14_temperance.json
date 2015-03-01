@@ -1,0 +1,16 @@
+{
+	"name" : "Temperance",
+	"number": 14,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Samekh",
+		"number": "60",
+		"meaning": "prop"
+	},
+	"note": "G#",
+	"astrology": "Sagitarius",
+	"alchemy": "fiery",
+	"colour": "blue",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/14.jpg",
+	"interpretation": "Combination of forces, realization, action based on accurate calculation; the way of escape, success after elaborate manoeuvres."		
+}	

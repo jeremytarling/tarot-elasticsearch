@@ -1,0 +1,16 @@
+{
+	"name" : "The Devil",
+	"number": 15,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Ayin",
+		"number": "70",
+		"meaning": "eye"
+	},
+	"note": "A",
+	"astrology": "Capricorn",
+	"alchemy": "earthy",
+	"colour": "blue-violet",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/15.jpg",
+	"interpretation": "Blind impulse, irresistibly strong and unscrupulous, ambition, temptation, obsession, secret plan about to be executed; hard work, obstinacy, rigidity, aching discontent, endurance."		
+}	

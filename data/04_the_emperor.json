@@ -1,0 +1,16 @@
+{
+	"name" : "The Emperor",
+	"number": 4,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Heh",
+		"number": "5",
+		"meaning": "window"
+	},
+	"note": "C",
+	"astrology": "Aries",
+	"alchemy": "fiery",
+	"colour": "red",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/4.jpg",
+	"interpretation": "War, conquest, victory, strife, ambition, originality, overweening confidence and megalomania, quarrelsomeness, energy, vigour, stubbornness, impracticability, rashness, ill-temper."		
+}	

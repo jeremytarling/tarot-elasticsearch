@@ -1,0 +1,16 @@
+{
+	"name" : "The Moon",
+	"number": 18,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Qoph",
+		"number": "100",
+		"meaning": "back of the head"
+	},
+	"note": "B",
+	"astrology": "Pisces",
+	"alchemy": "watery",
+	"colour": "violet-red",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/18.jpg",
+	"interpretation": "Illusion, deception, bewilderment, hysteria, even madness, dreaminess, falsehood, error, crisis, “the darkest hour before the dawn”, the brink of important change."		
+}	

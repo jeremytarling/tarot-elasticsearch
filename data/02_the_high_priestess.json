@@ -1,0 +1,16 @@
+{
+	"name" : "The High Priestess",
+	"number": 2,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Gimmel",
+		"number": "3",
+		"meaning": "cammel"
+	},
+	"note": "G#",
+	"astrology": "Moon",
+	"alchemy": "Silver",
+	"colour": "blue",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/2.jpg",
+	"interpretation": "Pure, exalted and gracious influence enters the matter. Hence, change, alternation, increase and decrease, fluctuation. There is, however, a liability to be led away by enthusiasm; one may become 'moon-struck' unless careful balance is maintained."		
+}	

@@ -1,0 +1,16 @@
+{
+	"name" : "Death",
+	"number": 13,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Nun",
+		"number": "50",
+		"meaning": "fish"
+	},
+	"note": "G",
+	"astrology": "Scorpio",
+	"alchemy": "watery",
+	"colour": "blue-green",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/13.jpg",
+	"interpretation": "Transformation, change, voluntary or involuntary, in either case logical development of existing conditions, yet perhaps sudden and unexpected. Apparent death or destruction, but such interpretation is illusion."		
+}	

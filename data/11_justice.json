@@ -1,0 +1,16 @@
+{
+	"name" : "Justice",
+	"number": 11,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Lamed",
+		"number": "30",
+		"meaning": "ox goad"
+	},
+	"note": "F#",
+	"astrology": "Libra",
+	"alchemy": "airy",
+	"colour": "green",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/11.jpg",
+	"interpretation": "Justice, or rather justesse, the act of adjustment, suspension of all action pending decision; in material matters, may refer to law suits or prosecutions. Socially, marriage or marriage agreements; politically, treaties."		
+}	

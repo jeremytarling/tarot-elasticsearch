@@ -1,0 +1,16 @@
+{
+	"name" : "Strength",
+	"number": 8,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Teth",
+		"number": "9",
+		"meaning": "serpent"
+	},
+	"note": "E",
+	"astrology": "Leo",
+	"alchemy": "fiery",
+	"colour": "yellow",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/8.jpg",
+	"interpretation": "Courage, strength, energy and action, une grande passion; resort to magick, the use of magical power."		
+}	

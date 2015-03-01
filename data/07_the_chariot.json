@@ -1,0 +1,16 @@
+{
+	"name" : "The Chariot",
+	"number": 7,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Cheth",
+		"number": "8",
+		"meaning": "fence"
+	},
+	"note": "D#",
+	"astrology": "Cancer",
+	"alchemy": "watery",
+	"colour": "orange-yellow",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/7.jpg",
+	"interpretation": "Triumph, victory, hope, memory, digestion, violence in maintaining traditional ideas, the 'die-hard', ruthlessness, lust of destruction, obedience, faithfulness, authority under authority."		
+}	

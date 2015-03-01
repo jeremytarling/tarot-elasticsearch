@@ -1,0 +1,16 @@
+{
+	"name" : "The Hanged Man",
+	"number": 12,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Mem",
+		"number": "40",
+		"meaning": "water"
+	},
+	"note": "G#",
+	"astrology": "Neptune",
+	"alchemy": "Water",
+	"colour": "blue",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/12.jpg",
+	"interpretation": "Enforced sacrifice, punishment, loss, fatal or voluntary, suffering, defeat, failure, death."		
+}	

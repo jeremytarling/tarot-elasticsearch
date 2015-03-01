@@ -1,0 +1,16 @@
+{
+	"name" : "The Sun",
+	"number": 19,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Resh",
+		"number": "200",
+		"meaning": "head"
+	},
+	"note": "D",
+	"astrology": "Sun",
+	"alchemy": "Gold",
+	"colour": "orange",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/19.jpg",
+	"interpretation": "Glory, gain, riches, triumph, pleasure, frankness, truth, shamelessness, arrogance, vanity, manifestation, recovery from sickness, but sometimes sudden death."		
+}	

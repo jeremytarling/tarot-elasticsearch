@@ -1,0 +1,16 @@
+{
+	"name" : "The Tower",
+	"number": 16,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Peh",
+		"number": "80",
+		"meaning": "mouth"
+	},
+	"note": "C",
+	"astrology": "Mars",
+	"alchemy": "Iron",
+	"colour": "red",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/16.jpg",
+	"interpretation": "Quarrel, combat, danger, ruin, destruction of plans, sudden death, escape from prison."		
+}	

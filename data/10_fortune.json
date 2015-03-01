@@ -1,0 +1,16 @@
+{
+	"name" : "The Wheel of Fortune",
+	"number": 10,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Kaph",
+		"number": "20",
+		"meaning": "hand (closed)"
+	},
+	"note": "A#",
+	"astrology": "Jupiter",
+	"alchemy": "Tin",
+	"colour": "violet",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/10.jpg",
+	"interpretation": "Change of fortune. (This generally means good fortune because the fact of consultation implies anxiety or discontent.)"		
+}	

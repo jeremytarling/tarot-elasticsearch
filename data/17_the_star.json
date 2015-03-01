@@ -1,0 +1,16 @@
+{
+	"name" : "The Star",
+	"number": 17,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Tzaddi",
+		"number": "90",
+		"meaning": "fish-hook"
+	},
+	"note": "A#",
+	"astrology": "Aquairius",
+	"alchemy": "airy",
+	"colour": "violet",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/17.jpg",
+	"interpretation": "Hope, unexpected help, clearness of vision, realization of possibilities, spiritual insight, with bad aspects, error of judgment, dreaminess, disappointment."		
+}	

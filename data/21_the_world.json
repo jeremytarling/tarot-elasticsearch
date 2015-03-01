@@ -1,0 +1,18 @@
+{
+	"name" : "The World",
+	"number": 21,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Tav",
+		"number": "400",
+		"meaning": "mark"
+	},
+	"note": "A",
+	"astrology": "Saturn",
+	"alchemy": "Lead",
+	"colour": "blue-violet",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/21.jpg",
+	"interpretation": "The matter of the question itself, synthesis, the end of the matter, may mean delay, 
+opposition, obstinacy, inertia, patience, perseverance, persistent stubbornness in 
+difficulty. The crystallization of the whole matter involved. "		
+}	

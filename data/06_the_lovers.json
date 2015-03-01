@@ -1,0 +1,16 @@
+{
+	"name" : "The Lovers",
+	"number": 6,
+	"suit" : "keys",
+	"hebrew": {
+		"letter": "Zayin",
+		"number": "7",
+		"meaning": "sword"
+	},
+	"note": "D",
+	"astrology": "Gemini",
+	"alchemy": "airy",
+	"colour": "orange",
+	"image" : "http://gfx.tarot.com/images/site/decks/wirth/full_size/6.jpg",
+	"interpretation": "Openness to inspiration, intuition, intelligence, second sight, childishness, frivolity, thoughtfulness divorced from practical consideration, indecision, self-contradiction, union in a shallow degree with others, instability, contradiction, triviality, the 'high-brow'."		
+}	
